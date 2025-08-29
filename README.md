@@ -1,2 +1,1 @@
-# index.html_
-just githab
+https://username.github.io/repository
