@@ -1,1 +1,1 @@
-https://username.github.io/repository
+https://username.github.io/repositor
